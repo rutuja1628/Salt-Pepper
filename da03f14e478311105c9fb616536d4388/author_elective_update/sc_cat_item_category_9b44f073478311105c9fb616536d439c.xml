@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Suggest a Recipe">41bcdb4e470b11105c9fb616536d43ba</sc_cat_item>
+        <sc_category display_value="NKJSNDj">f234b4ff474311105c9fb616536d43be</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>rutuja</sys_created_by>
+        <sys_created_on>2022-11-15 14:28:29</sys_created_on>
+        <sys_id>9b44f073478311105c9fb616536d439c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NKJSNDj.Suggest a Recipe</sys_name>
+        <sys_package display_value="Salt And Pepper" source="x_795232_salt_an_0">da03f14e478311105c9fb616536d4388</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Salt And Pepper">da03f14e478311105c9fb616536d4388</sys_scope>
+        <sys_update_name>sc_cat_item_category_9b44f073478311105c9fb616536d439c</sys_update_name>
+        <sys_updated_by>rutuja</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:28:46</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Salt And Pepper">da03f14e478311105c9fb616536d4388</application>
+        <file_path/>
+        <instance_id>95a908acdb2768d0e26fd7c8f4961909</instance_id>
+        <instance_name>dev111556</instance_name>
+        <name>sc_cat_item_category_9b44f073478311105c9fb616536d439c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Suggest a Recipe">41bcdb4e470b11105c9fb616536d43ba</sc_cat_item><sc_category display_value="NKJSNDj">f234b4ff474311105c9fb616536d43be</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>rutuja</sys_created_by><sys_created_on>2022-11-15 14:28:29</sys_created_on><sys_id>9b44f073478311105c9fb616536d439c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>NKJSNDj.Suggest a Recipe</sys_name><sys_package display_value="Salt And Pepper" source="x_795232_salt_an_0">da03f14e478311105c9fb616536d4388</sys_package><sys_policy/><sys_scope display_value="Salt And Pepper">da03f14e478311105c9fb616536d4388</sys_scope><sys_update_name>sc_cat_item_category_9b44f073478311105c9fb616536d439c</sys_update_name><sys_updated_by>rutuja</sys_updated_by><sys_updated_on>2022-11-15 14:28:46</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1560174793</payload_hash>
+        <record_name>NKJSNDj.Suggest a Recipe</record_name>
+        <reverted_from/>
+        <source>da03f14e478311105c9fb616536d438a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>rutuja</sys_created_by>
+        <sys_created_on>2022-11-15 14:28:47</sys_created_on>
+        <sys_id>06647473478311105c9fb616536d43b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847bb149e00000001</sys_recorded_at>
+        <sys_updated_by>rutuja</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:28:47</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>4e6474733a83111012d32f68d127beb6</update_guid>
+        <update_guid_history>4e6474733a83111012d32f68d127beb6:-1560174793,79543473e18311104b11abfafbe0664f:-1655295485</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NKJSNDj.Suggest a Recipe">b2c47c73478311105c9fb616536d435d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>rutuja</sys_created_by>
+        <sys_created_on>2022-11-15 14:30:28</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>77faac1d6e3449ba9f6aedc9d10f9661</sys_id>
+        <sys_metadata>9b44f073478311105c9fb616536d439c</sys_metadata>
+        <sys_name>NKJSNDj.Suggest a Recipe</sys_name>
+        <sys_package display_value="Salt And Pepper" source="x_795232_salt_an_0">da03f14e478311105c9fb616536d4388</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Salt And Pepper">da03f14e478311105c9fb616536d4388</sys_scope>
+        <sys_scope_delete display_value="">8146438d528d4b10ad89bb40c6b86064</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_9b44f073478311105c9fb616536d439c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_9b44f073478311105c9fb616536d439c">06647473478311105c9fb616536d43b7</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Salt and Pepper Catalog">c3282077474311105c9fb616536d4364</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>rutuja</sys_created_by>
+        <sys_created_on>2022-11-15 14:28:15</sys_created_on>
+        <sys_id>f234b4ff474311105c9fb616536d43be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NKJSNDj</sys_name>
+        <sys_package display_value="Salt And Pepper" source="x_795232_salt_an_0">da03f14e478311105c9fb616536d4388</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Salt And Pepper">da03f14e478311105c9fb616536d4388</sys_scope>
+        <sys_update_name>sc_category_f234b4ff474311105c9fb616536d43be</sys_update_name>
+        <sys_updated_by>rutuja</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:28:15</sys_updated_on>
+        <title>NKJSNDj</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=f234b4ff474311105c9fb616536d43be"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Salt And Pepper">da03f14e478311105c9fb616536d4388</application>
+        <file_path/>
+        <instance_id>95a908acdb2768d0e26fd7c8f4961909</instance_id>
+        <instance_name>dev111556</instance_name>
+        <name>sc_category_f234b4ff474311105c9fb616536d43be</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description/><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog display_value="Salt and Pepper Catalog">c3282077474311105c9fb616536d4364</sc_catalog><sys_class_name>sc_category</sys_class_name><sys_created_by>rutuja</sys_created_by><sys_created_on>2022-11-15 14:28:15</sys_created_on><sys_id>f234b4ff474311105c9fb616536d43be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NKJSNDj</sys_name><sys_package display_value="Salt And Pepper" source="x_795232_salt_an_0">da03f14e478311105c9fb616536d4388</sys_package><sys_policy/><sys_scope display_value="Salt And Pepper">da03f14e478311105c9fb616536d4388</sys_scope><sys_update_name>sc_category_f234b4ff474311105c9fb616536d43be</sys_update_name><sys_updated_by>rutuja</sys_updated_by><sys_updated_on>2022-11-15 14:28:15</sys_updated_on><title>NKJSNDj</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=f234b4ff474311105c9fb616536d43be"/></record_update>]]></payload>
+        <payload_hash>-1420484094</payload_hash>
+        <record_name>NKJSNDj</record_name>
+        <reverted_from/>
+        <source>da03f14e478311105c9fb616536d438a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>rutuja</sys_created_by>
+        <sys_created_on>2022-11-15 14:28:15</sys_created_on>
+        <sys_id>d644bc33478311105c9fb616536d43ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847bb0cdbf0000001</sys_recorded_at>
+        <sys_updated_by>rutuja</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:28:15</sys_updated_on>
+        <type>Category</type>
+        <update_guid>1244bc33608311100f60e3c3f59861ae</update_guid>
+        <update_guid_history>1244bc33608311100f60e3c3f59861ae:-1420484094</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NKJSNDj">b6c47c73478311105c9fb616536d4377</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>rutuja</sys_created_by>
+        <sys_created_on>2022-11-15 14:30:28</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>12e588a9c4f34284ab840a4d59aeaf10</sys_id>
+        <sys_metadata>f234b4ff474311105c9fb616536d43be</sys_metadata>
+        <sys_name>NKJSNDj</sys_name>
+        <sys_package display_value="Salt And Pepper" source="x_795232_salt_an_0">da03f14e478311105c9fb616536d4388</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Salt And Pepper">da03f14e478311105c9fb616536d4388</sys_scope>
+        <sys_scope_delete display_value="">8146438d528d4b10ad89bb40c6b86064</sys_scope_delete>
+        <sys_update_name>sc_category_f234b4ff474311105c9fb616536d43be</sys_update_name>
+        <sys_update_version display_value="sc_category_f234b4ff474311105c9fb616536d43be">d644bc33478311105c9fb616536d43ae</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

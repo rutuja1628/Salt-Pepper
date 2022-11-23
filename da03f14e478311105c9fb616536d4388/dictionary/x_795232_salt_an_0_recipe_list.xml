@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9f833d4e478311105c9fb616536d4340" label="Recipe" max_length="40" name="x_795232_salt_an_0_recipe_list" type="collection">
+        <element choice="1" label="Food type" max_length="30" name="food_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Appetizers"/>
+                <element inactive_on_update="false" label="Desserts"/>
+                <element inactive_on_update="false" label="Juice" value="Juice"/>
+                <element inactive_on_update="false" label="Main Course"/>
+            </choice>
+        </element>
+        <element default="NA" label="Recipe Description" max_length="10000" name="recipe_description" type="string"/>
+    </element>
+</database>
