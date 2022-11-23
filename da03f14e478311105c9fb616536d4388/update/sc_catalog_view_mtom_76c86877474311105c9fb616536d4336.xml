@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Salt and Pepper Catalog">c3282077474311105c9fb616536d4364</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 13:38:02</sys_created_on>
+        <sys_id>76c86877474311105c9fb616536d4336</sys_id>
+        <sys_name>Salt and Pepper Catalog.catalog_salt_and_pepper_catalog</sys_name>
+        <sys_package display_value="Salt And Pepper" source="x_795232_salt_an_0">da03f14e478311105c9fb616536d4388</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_salt_and_pepper_catalog">bec86877474311105c9fb616536d4334</sys_portal_page>
+        <sys_scope display_value="Salt And Pepper">da03f14e478311105c9fb616536d4388</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_76c86877474311105c9fb616536d4336</sys_update_name>
+    </sc_catalog_view_mtom>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_salt_and_pepper_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 13:38:02</sys_created_on>
+        <sys_id>72c86877474311105c9fb616536d4331</sys_id>
+        <sys_name>Salt and Pepper Catalog View</sys_name>
+        <sys_package display_value="Salt And Pepper" source="x_795232_salt_an_0">da03f14e478311105c9fb616536d4388</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Salt And Pepper">da03f14e478311105c9fb616536d4388</sys_scope>
+        <sys_update_name>sys_ui_view_72c86877474311105c9fb616536d4331</sys_update_name>
+        <title>Salt and Pepper Catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
